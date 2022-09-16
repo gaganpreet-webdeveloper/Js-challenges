@@ -1,0 +1,23 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+#outer {
+	width: 434px;
+	background-color: black;
+	margin: 10px auto;
+	padding: 3px 0px 0px 3px;
+}
+.box1 {
+	background-color: black;
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+}
+.box2 {
+	background-color: white;
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+}
